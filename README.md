@@ -1,21 +1,24 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
 
 </div>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+# Hi, I'm Yuchen :alien monster:
 
-Happy Coding! 😊
+Machine Learning Developer Intern. :robot:. (In progress)
 
-<div align="center">
+Boston University Student. :man_technologist:
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+## About Me
 
-<i>Follow me:</i><br>
+:heart: Drawing | :black_heart: Anime | :blue_heart: Programming | 💛: Cooking
 
+- :earth_americas: I'm from Wuhan - China
+- :video_game: I like to play video games
+
+## Social media :mailbox_with_no_mail:
 <a href="https://linkedin.com/in/yuchen-huang-a962a4297  " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
